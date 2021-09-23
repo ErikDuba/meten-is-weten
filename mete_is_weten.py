@@ -1,11 +1,6 @@
-A = input(int(float('Wat is getal A?: '))
-B = input(int(float('Wat is getal B?: '))
+a = input('Wat is getal a?: ')
+b = input('Wat is getal b?: ')
 
-if A > B:
-    max A
-    min
-print('')
-
-elif
-
-else 
+if a > b:
+    max (a)
+    print('a is het grootste getal')
