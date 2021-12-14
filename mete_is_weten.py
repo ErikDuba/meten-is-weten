@@ -5,5 +5,8 @@ if a > b:
     max (a)
     print('a is het grootste getal')
 
-else a > b:
+elif a < b:
+    print ('b is het grootste getal')
 
+else:
+    print ('a en b zijn even groot')
